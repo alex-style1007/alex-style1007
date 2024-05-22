@@ -45,7 +45,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1036B1?style=flat&logo=mongodb)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-007DBD?style=flat&logo=sqlserver)&nbsp;
 
-### ️💾 &nbsp;Tech Stack
+### ️💾 &nbsp;tools Stack
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=aws)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure)&nbsp;
 
@@ -79,11 +79,9 @@
 </summary>
 
 <p align="center">
-  <a href="https://rahulmahesh.me/"><img src="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></a>
-  <a href="https://twitter.com/rahulmahesh62"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jhon-alexander-arenas-hincapie-527713237"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/_rahulmahesh62_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.facebook.com/rahul.mahesh.948/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://github.com/RahulMahesh62"><img src="https://badges.pufler.dev/visits/RahulMahesh62/RahulMahesh62?style=for-the-badge"></a>
+  <a href="https://www.instagram.com/jhonarenas_h"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.facebook.com/profile.php?id=61559335725950"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="mailto:alexarenasatl@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD4B39.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
