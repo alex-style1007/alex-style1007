@@ -45,7 +45,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1036B1?style=flat&logo=mongodb)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-007DBD?style=flat&logo=sqlserver)&nbsp;
 
-### ️💾 &nbsp;tools Stack
+### ️💾 &nbsp;tools Cloud
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=aws)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure)&nbsp;
 
