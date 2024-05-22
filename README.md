@@ -14,7 +14,7 @@
 - **Relations:** I am passionate about connecting with people because it enriches my life, broadens my perspectives, and fosters meaningful relationships. Engaging with others allows me to learn, grow, and find joy in shared experiences.  
 - **Data:** I consider the world of data to be addictive, since it is full of multidisciplinary knowledge.  
 
-📚 I completed my studies in Data Science Engineering at the [Universidad Pontificia Bolivariana](https://www.upb.edu.co/es/centro-energia-inteligente-y-sostenible-sec), one of the most prestigious universities in Colombia.  
+📚 I completed my studies in Data Science Engineering at the [Universidad Pontificia Bolivariana](https://www.upb.edu.co/), one of the most prestigious universities in Colombia.  
 
 </div>
 
