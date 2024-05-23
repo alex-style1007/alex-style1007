@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
       - name: Generar imagen de estadísticas
         # Genera la imagen de estadísticas localmente utilizando la acción oficial
@@ -30,12 +31,20 @@ jobs:
 
       - name: Actualizar README
         run: |
-          mv readme.svg README.md  # Cambia el nombre de la imagen a README.md
+          mv readme.svg README.md  # Cambia el nombre de la imagen a README.md si es necesario
+        shell: bash
 
-      - name: Agregar y confirmar cambios
+      - name: Configurar Git
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        shell: bash
+
+      - name: Agregar y confirmar cambios
+        run: |
           git add README.md
           git commit -m 'Actualizar README con las estadísticas más recientes'
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
