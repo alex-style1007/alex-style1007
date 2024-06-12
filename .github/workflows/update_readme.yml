@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout del repositorio
         uses: actions/checkout@v2
 
       - name: Generar imagen de estadísticas
@@ -19,7 +19,7 @@ jobs:
         with:
           # Personaliza el contenido de las estadísticas según sea necesario
           username: alex-Style1007
-          show_icons: true
+          show_icons: true  # Corrige la propiedad a minúscula
           locale: en
           layout: compact
           line_height: 20
@@ -31,17 +31,7 @@ jobs:
 
       - name: Actualizar README
         run: |
-          mv readme.svg README.md  # Cambia el nombre de la imagen a README.md si es necesario
-        shell: bash
-
-      - name: Configurar Git
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        shell: bash
-
-      - name: Agregar y confirmar cambios
-        run: |
+          mv readme.svg README.md # Elimina el espacio innecesario
           git add README.md
           git commit -m 'Actualizar README con las estadísticas más recientes'
           git push
