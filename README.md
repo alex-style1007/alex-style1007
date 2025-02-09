@@ -20,7 +20,8 @@
 
 
 <div style="height: 3px; background-color: #14CF97;"></div>
-# GenerativeAI
+
+#GenerativeAI
 
 [Agent web scraping](https://github.com/alex-style1007/AgentWebScarp)
 
